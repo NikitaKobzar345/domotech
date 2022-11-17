@@ -25,7 +25,6 @@
 </template>
 
 <script>
-let numbersArray = [0, 1, 2, 3, 4, 5];
 
 export default {
   data() {
